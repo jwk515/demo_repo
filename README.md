@@ -9,4 +9,5 @@ Here is a list:
   + Item 2
   + Item 3
 
+Added this line in VS Code!
 For more information about Markdown syntax, see the [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/).
